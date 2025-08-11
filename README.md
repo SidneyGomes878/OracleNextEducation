@@ -1,6 +1,6 @@
 # Minha Jornada no Programa ONE
 
-O ONE é um programa de educação e empregabilidade com objetivo social, que me capacita em tecnologia e me conecta com o mercado de trabalho através de empresas parceiras. O curso é 100% online e gratuito, voltado para quem tem vontade de aprender e pressa para trabalhar.
+Quero compartilhar um pouco sobre o programa ONE da Oracle + Alura que estou fazendo. Ele é um programa de educação gratuito e online que foca em capacitar pessoas em tecnologia para entrar no mercado de trabalho.
 
 ## Fases Concluídas
 
