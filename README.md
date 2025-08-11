@@ -1,4 +1,19 @@
-# OracleNextEducation
-Aqui vou demostrar os assuntos aprendidos em cada curso da ONU
+# Minha Jornada no Programa ONE
 
-# Como funciona?
+[cite_start]O ONE é um programa de educação e empregabilidade com objetivo social, que me capacita em tecnologia e me conecta com o mercado de trabalho através de empresas parceiras[cite: 19]. [cite_start]O curso é 100% online e gratuito, voltado para quem tem vontade de aprender e pressa para trabalhar[cite: 20].
+
+## Fases Concluídas
+
+### Fase 1: Inscrição
+[cite_start]Nesta fase, eu submeti minha inscrição através do site do programa[cite: 91]. [cite_start]Após o prazo, recebi a devolutiva informando que eu havia passado para a próxima etapa[cite: 92].
+
+### Fase 2: Seleção
+[cite_start]Esta fase durou 2 meses[cite: 72]. [cite_start]Nela, tive acesso a duas formações — Desenvolvimento Pessoal e Iniciante em Programação com IA Generativa [cite: 104, 105] [cite_start]— e tive que concluir um desafio (challenge) para colocar em prática o conteúdo aprendido[cite: 108].
+
+## Fases Atuais e Futuras
+
+### Fase 3: Tech Foundation (Atual)
+[cite_start]Esta é a fase em que me encontro no momento[cite: 119]. [cite_start]Ela tem a duração de 5 meses[cite: 82]. [cite_start]Nesta etapa, eu tive o apoio de professores e Devs para escolher uma especialização entre **Data Science** ou **Back-End**[cite: 120]. [cite_start]O curso conta também com formações em soft skills, challenges e conteúdo de Inteligência Artificial[cite: 121].
+
+### Fase 4: Tech Advanced (Futura)
+[cite_start]Após concluir a fase Tech Foundation, terei acesso ao Tech Advanced[cite: 134]. [cite_start]Esta fase dura 5 meses[cite: 83]. [cite_start]Nela, terei 3 meses de trilhas focadas em conteúdos Oracle e mais 2 meses na comunidade AlumniONE, com mais oportunidades de desenvolvimento[cite: 134].
