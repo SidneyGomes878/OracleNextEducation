@@ -1,11 +1,11 @@
 # Minha Jornada no Programa ONE
 
-[cite_start]O ONE é um programa de educação e empregabilidade com objetivo social, que me capacita em tecnologia e me conecta com o mercado de trabalho através de empresas parceiras[cite: 19]. [cite_start]O curso é 100% online e gratuito, voltado para quem tem vontade de aprender e pressa para trabalhar[cite: 20].
+O ONE é um programa de educação e empregabilidade com objetivo social, que me capacita em tecnologia e me conecta com o mercado de trabalho através de empresas parceiras. O curso é 100% online e gratuito, voltado para quem tem vontade de aprender e pressa para trabalhar.
 
 ## Fases Concluídas
 
 ### Fase 1: Inscrição
-[cite_start]Nesta fase, eu submeti minha inscrição através do site do programa[cite: 91]. [cite_start]Após o prazo, recebi a devolutiva informando que eu havia passado para a próxima etapa[cite: 92].
+Nesta fase, eu submeti minha inscrição através do site do programa. Após o prazo, recebi a devolutiva informando que eu havia passado para a próxima etapa.
 
 ### Fase 2: Seleção
 [cite_start]Esta fase durou 2 meses[cite: 72]. [cite_start]Nela, tive acesso a duas formações — Desenvolvimento Pessoal e Iniciante em Programação com IA Generativa [cite: 104, 105] [cite_start]— e tive que concluir um desafio (challenge) para colocar em prática o conteúdo aprendido[cite: 108].
