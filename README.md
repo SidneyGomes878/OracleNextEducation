@@ -8,7 +8,7 @@ Quero compartilhar um pouco sobre o programa ONE da Oracle + Alura que estou faz
 Nesta fase, eu submeti minha inscrição através do site do programa. Após o prazo, recebi a devolutiva informando que eu havia passado para a próxima etapa.
 
 ### Fase 2: Seleção
-[cite_start]Esta fase durou 2 meses[cite: 72]. [cite_start]Nela, tive acesso a duas formações — Desenvolvimento Pessoal e Iniciante em Programação com IA Generativa [cite: 104, 105] [cite_start]— e tive que concluir um desafio (challenge) para colocar em prática o conteúdo aprendido[cite: 108].
+Esta fase durou 2 meses. Nela, tive acesso a duas formações — Desenvolvimento Pessoal e Iniciante em Programação com IA Generativa e tive que concluir um desafio (challenge) para colocar em prática o conteúdo aprendido.
 
 ## Fases Atuais e Futuras
 
