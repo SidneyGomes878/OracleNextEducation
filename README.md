@@ -16,4 +16,4 @@ Esta fase durou 2 meses. Nela, tive acesso a duas formações — Desenvolviment
 Esta é a fase em que me encontro no momento. Ela tem a duração de 5 meses. Nesta etapa, eu estou tendo apoio de professores e Devs para escolher uma especialização entre **Data Science** ou **Back-End**. O curso conta também com formações em soft skills, challenges e conteúdo de Inteligência Artificial.
 
 ### Fase 4: Tech Advanced (Futura)
-[cite_start]Após concluir a fase Tech Foundation, terei acesso ao Tech Advanced[cite: 134]. [cite_start]Esta fase dura 5 meses[cite: 83]. [cite_start]Nela, terei 3 meses de trilhas focadas em conteúdos Oracle e mais 2 meses na comunidade AlumniONE, com mais oportunidades de desenvolvimento[cite: 134].
+Após concluir a fase Tech Foundation, terei acesso ao Tech Advanced. Esta fase dura 5 meses. Nela, terei 3 meses de trilhas focadas em conteúdos Oracle e mais 2 meses na comunidade AlumniONE, com mais oportunidades de desenvolvimento[cite: 134].
